@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf26485c58cb20d",
+        "id": "4348abfd6825b5ea",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b655c448e929d5",
+            "id": "41b99d4a20678c56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_lisen/200930_鄭.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "200930_鄭"
+              "title": "新分頁"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_lisen/200930_鄭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "200930_鄭 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -169,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 803.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +177,16 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "b5b655c448e929d5",
+  "active": "41b99d4a20678c56",
   "lastOpenFiles": [
-    "04_lisen/Pasted image 20251002145109.png",
-    "04_lisen/Pasted image 20251002144841.png"
+    "04_lisen/這是個什麼檔案？.md",
+    "04_lisen/XAMPP 更改根目錄.md",
+    "04_lisen/200930_鄭.md",
+    "04_lisen/未命名.canvas",
+    "04_lisen/未命名 3.md",
+    "04_lisen/歡迎.md",
+    "04_lisen/未命名 5.md",
+    "04_lisen/Pasted image 20251002144841.png",
+    "04_lisen/Pasted image 20251002145109.png"
   ]
 }
