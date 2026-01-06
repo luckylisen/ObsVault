@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4348abfd6825b5ea",
+        "id": "aec6a2b3ca267d28",
         "type": "tabs",
         "children": [
           {
-            "id": "41b99d4a20678c56",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_lisen/Pasted image 20251002144949.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251002144949"
-            }
-          },
-          {
-            "id": "d483dd560b998302",
+            "id": "f765a8b0e5a8e5c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "建立鏈接.md",
+                "file": "04_lisen/阿凱老師：打造超人筆記.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "建立鏈接"
+              "title": "阿凱老師：打造超人筆記"
+            }
+          },
+          {
+            "id": "dc33533991a034ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "建立鏈接.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "建立鏈接 的反向連結"
+              "title": "未命名 的反向連結"
             }
           },
           {
@@ -195,31 +197,34 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "3a7faf56ee2fe033",
+  "active": "dc33533991a034ee",
   "lastOpenFiles": [
-    "打造超人筆記.md",
-    "04_lisen/GitHub_我的.pdf",
-    "04_lisen/Pasted image 20251002144949.png",
-    "04_lisen/Pasted image 20251002144839.png",
-    "04_lisen/Pasted image 20251002144841.png",
-    "04_lisen/歡迎.md",
-    "04_lisen/GitHub_我的.md",
+    "04_lisen/if...else.md",
+    "未命名.md",
     "04_lisen/阿凱老師：打造超人筆記.md",
-    "04_lisen/Pasted image 20251002161847.png",
-    "04_lisen/GitHub_老師.pdf",
-    "04_lisen/Pasted image 20251002162042.png",
-    "04_lisen/Pasted image 20251003094240.png",
-    "04_lisen/Pasted image 20251003094851.png",
-    "04_lisen/Pasted image 20251003095835.png",
-    "04_lisen/Pasted image 20251002145335.png",
-    "04_lisen/XAMPP 更改根目錄.md",
-    "04_lisen/Pasted image 20251002145109.png",
-    "04_lisen/這是個什麼檔案？.md",
-    "建立鏈接.md",
+    "04_lisen/歡迎.md",
+    "04_lisen/foreach 迴圈.md",
+    "04_lisen/array 陣列.md",
     "04_lisen/未命名.canvas",
-    "04_lisen/未命名.md",
-    "04_lisen/未命名 3.md",
-    "04_lisen/未命名 4.md",
-    "04_lisen/未命名 5.md"
+    "04_lisen/列印與除錯函式比較.md",
+    "04_lisen/處理陣列的常用函數.md",
+    "04_lisen/switch...case.md",
+    "04_lisen/Pasted image 20251002144841.png",
+    "04_lisen/Pasted image 20251002144949.png",
+    "04_lisen/Pasted image 20251002145109.png",
+    "04_lisen/Pasted image 20251002145232.png",
+    "04_lisen/Pasted image 20251002145335.png",
+    "04_lisen/Pasted image 20251002145403.png",
+    "04_lisen/Pasted image 20251002145904.png",
+    "04_lisen/Pasted image 20251002150836.png",
+    "04_lisen/Pasted image 20251002152120.png",
+    "04_lisen/Pasted image 20251002154723.png",
+    "README.md",
+    "打造超人筆記.md",
+    "建立鏈接.md",
+    "04_lisen/GitHub_我的.pdf",
+    "04_lisen/GitHub_我的.md",
+    "04_lisen/GitHub_老師.pdf",
+    "04_lisen/XAMPP 更改根目錄.md"
   ]
 }
