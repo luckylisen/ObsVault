@@ -1,1 +1,8 @@
-{}
+{
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "interfaceFontFamily": "Arial",
+  "nativeMenus": true
+}
