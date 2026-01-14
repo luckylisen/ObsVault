@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ac2ec48cb2681a6",
+        "id": "e1573af93bf9181f",
         "type": "tabs",
         "children": [
           {
-            "id": "06ffa14ae0b384c2",
+            "id": "6c7677f6e929e524",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "right": {
     "id": "04fbbcc09ae0a821",
@@ -177,15 +177,23 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "06ffa14ae0b384c2",
+  "active": "6c7677f6e929e524",
   "lastOpenFiles": [
+    "PhpMyAdmin MySql 資料表.md",
+    "Pasted image 20260114102229.png",
+    "Pasted image 20260114102231.png",
+    "lavavel 安裝.md",
+    "04_lisen/歡迎.md",
+    "Pasted image 20260112110331.png",
+    "Pasted image 20260112110048.png",
+    "Pasted image 20260112093419.png",
+    "PHP網頁傳值：GET+POST 與 isset +empty 詳解.md",
+    "Pasted image 20260112110741.png",
     "04_lisen/SQL 語法回顧.md",
     "04_lisen/BootStrap RWD Grid 網格系統.md",
-    "lavavel 安裝.md",
     "04_lisen/未命名.canvas",
     "04_lisen/阿凱老師：打造超人筆記.md",
     "04_lisen/if...else.md",
-    "04_lisen/歡迎.md",
     "04_lisen/foreach 迴圈.md",
     "04_lisen/array 陣列.md",
     "04_lisen/列印與除錯函式比較.md",
@@ -195,12 +203,6 @@
     "04_lisen/Pasted image 20251002144949.png",
     "04_lisen/Pasted image 20251002145109.png",
     "04_lisen/Pasted image 20251002145232.png",
-    "04_lisen/Pasted image 20251002145335.png",
-    "04_lisen/Pasted image 20251002145403.png",
-    "04_lisen/Pasted image 20251002145904.png",
-    "04_lisen/Pasted image 20251002150836.png",
-    "04_lisen/Pasted image 20251002152120.png",
-    "04_lisen/Pasted image 20251002154723.png",
     "README.md",
     "打造超人筆記.md",
     "建立鏈接.md",

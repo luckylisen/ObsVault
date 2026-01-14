@@ -1,0 +1,56 @@
+![[Pasted image 20260112110741.png]]
+
+![[Pasted image 20260112093419.png]]
+
+
+- **常用**
+	- INT
+	- VARCHAR
+	- TEXT
+	- DATE
+- **數值**
+    - TINYINT
+    - SMALLINT
+    - MEDIUMINT
+    - INT
+    - BIGINT    
+    - DECIMAL
+    - FLOAT
+    - DOUBLE
+    - REAL
+    - BIT
+    - BOOLEAN
+    - SERIAL
+- **日期及時間**
+    - DATE
+    - DATETIME
+    - TIMESTAMP
+    - TIME
+    - YEAR
+- **字串**
+    - CHAR
+    - VARCHAR
+    - TINYTEXT
+    - TEXT
+    - MEDIUMTEXT
+    - LONGTEXT
+    - BINARY
+    - VARBINARY
+    - TINYBLOB
+    - BLOB
+	- MEDIUMBLOB
+	- LONGBLOB
+	- ENUM
+	- SET
+- **空間類型**
+    - GEOMETRY
+    - POINT
+    - LINESTRING
+    - POLYGON
+    - MULTIPOINT
+    - MULTILINESTRING
+    - MULTIPOLYGON
+    - GEOMETRYCOLLECTION
+- **JSON**
+    - JSON
+-------------------------
