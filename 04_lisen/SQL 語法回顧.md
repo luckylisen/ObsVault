@@ -1,5 +1,5 @@
 [創建]
-```
+```sql
 CREATE TABLE students (
 	id INT AUTO_INCREMENT PRIMARY KEY,
 	name VARCHAR(50),
@@ -10,7 +10,7 @@ CREATE TABLE students (
 ==`PRIMARY KEY = 主鍵`==
 
 [新增]
-```
+```sql
 INSERT INTO
     `students` (`id`, `name`, `mobile`)
 VALUES
@@ -21,7 +21,7 @@ VALUES
 ```
 
 [修改]
-```
+```sql
 UPDATE
     `students`
 SET
@@ -31,7 +31,7 @@ WHERE
 ```
 
 [刪除]
-```
+```sql
 DELETE FROM
     `students`
 WHERE
@@ -39,7 +39,7 @@ WHERE
 ```
 
 [查詢]
-```
+```sql
 SELECT
     *
 FROM
@@ -48,7 +48,7 @@ WHERE
     `students`.`id` = 4;
 ```
 
-```
+```sql
 D table C V C
 U table Set ?
 D from table ?

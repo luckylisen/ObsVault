@@ -1,6 +1,6 @@
 
 [範例1]
-```
+```php
 <?php
 $fruit = "banana";
 switch ($fruit) {
@@ -17,7 +17,7 @@ switch ($fruit) {
 ```
 
 [範例2]
-```
+```php
 <?php
 $level="A";
 switch($level){

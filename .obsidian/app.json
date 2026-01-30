@@ -1,8 +1,16 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "showLineNumber": true,
   "strictLineBreaks": true,
-  "readableLineLength": false,
-  "attachmentFolderPath": "./",
-  "showUnsupportedFiles": true
+  "readableLineLength": true,
+  "attachmentFolderPath": "./source",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
