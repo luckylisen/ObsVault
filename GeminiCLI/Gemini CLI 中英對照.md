@@ -9,7 +9,7 @@ Please choose a retention period for your existing chats
 
 Type your message or @path/to/file:
 輸入你的訊息，或是使用 @ 加上檔案路徑
-(讓 AI 讀取你的程式碼檔案）
+(讓 AI 讀取你的程式碼檔案)
 
 ? for shortcuts: 
 輸入問號可以查看快捷鍵清單。
@@ -25,6 +25,15 @@ Command produced no output
 
 Command exited with code 1.
 指令執行錯誤退出，回傳代號1
+
+No saved conversation checkpoints found.
+未找到已儲存的對話節點。
+
+
+
+
+
+
 
 ！
 

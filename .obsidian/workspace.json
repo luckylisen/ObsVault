@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini CLI 中英對照.md",
+                "file": "GeminiCLI/Gemini CLI 中英對照.md",
                 "mode": "source",
                 "source": false
               },
@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "GeminiCLI/如何查詢歷史對話.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "如何查詢歷史對話"
             }
           }
         ],
@@ -240,11 +240,13 @@
   },
   "active": "a8b0cc8941eef752",
   "lastOpenFiles": [
+    "GeminiCLI/查詢歷史對話.md",
+    "GeminiCLI/如何查詢歷史對話.md",
+    "選休規則.md",
+    "GeminiCLI/Gemini CLI 中英對照.md",
     "排班系統分析(Google CLI).md",
-    "未命名.md",
     "員工表(employees).md",
     "HOT：多行選取.md",
-    "Gemini CLI 中英對照.md",
     "HOT：PHP包裹標籤(Tab).md",
     "PHP：pdo-query()-fetchAll().md",
     "PHP：呼叫 CSS.JS.PHP.md",
@@ -264,8 +266,6 @@
     "時間單位(秒以下).md",
     "檢定第二題資料表錯誤排除.md",
     "04_lisen/SQL 語法回顧.md",
-    "04_lisen/switch...case.md",
-    "laravel-02：Contoller.md",
     "aKai-PDF_260115a.pdf",
     "aKai-PDF_260115b.pdf",
     "2026-01-15-1349.pdf",
