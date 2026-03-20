@@ -2,7 +2,7 @@
   "promptDelete": true,
   "showLineNumber": true,
   "strictLineBreaks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "attachmentFolderPath": "./source",
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
@@ -12,5 +12,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }

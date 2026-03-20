@@ -4,79 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cb307b5582e26ad9",
+        "id": "2a68336813ae079b",
         "type": "tabs",
         "children": [
           {
-            "id": "61ffc6df00c12e8b",
+            "id": "87d5adeea05eeac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GeminiCLI/Gemini CLI 中英對照.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gemini CLI 中英對照"
-            }
-          },
-          {
-            "id": "5bfadf99f756b2ea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.12.4"
-            }
-          },
-          {
-            "id": "8dcaf776edb843d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "排班系統分析(Google CLI).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "排班系統分析(Google CLI)"
-            }
-          },
-          {
-            "id": "6ccbb88beb9d7e64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "排班系統分析(Google CLI).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "排班系統分析(Google CLI)"
-            }
-          },
-          {
-            "id": "a8b0cc8941eef752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GeminiCLI/如何查詢歷史對話.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "如何查詢歷史對話"
+              "title": "新分頁"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中文",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,11 +70,12 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 335.5
   },
   "right": {
     "id": "04fbbcc09ae0a821",
@@ -235,15 +177,28 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false
+      "bases:建立新的 base": false,
+      "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "a8b0cc8941eef752",
+  "active": "805082efa56a1b96",
   "lastOpenFiles": [
-    "GeminiCLI/查詢歷史對話.md",
-    "GeminiCLI/如何查詢歷史對話.md",
-    "選休規則.md",
+    "未命名.canvas",
+    "04_lisen/200930_鄭.md",
+    "04_lisen/阿凱老師：打造超人筆記.md",
+    "打造超人筆記.md",
     "GeminiCLI/Gemini CLI 中英對照.md",
+    "GeminiCLI/📘 保全管理系統規格文件 V1.md",
+    "GeminiCLI/未命名.base",
+    "GeminiCLI/未命名 1.base",
+    "GeminiCLI/未命名 2.base",
+    "GeminiCLI/未命名 3.base",
+    "GeminiCLI/未命名 4.base",
+    "GeminiCLI/📘 保全管理系統規格文件 V2.md",
+    "GeminiCLI/待實做排班表.md",
+    "GeminiCLI/如何查詢歷史對話.md",
+    "GeminiCLI/查詢歷史對話.md",
+    "選休規則.md",
     "排班系統分析(Google CLI).md",
     "員工表(employees).md",
     "HOT：多行選取.md",
@@ -259,26 +214,14 @@
     "PHP：if...foreach...else.md",
     "SQL：創建資料表.md",
     "PHP：catch {...} 嚴謹版.md",
-    "04_lisen/if...else.md",
-    "建立鏈接.md",
-    "laravel-00：練習.md",
-    "lavavel-01：Install.md",
-    "時間單位(秒以下).md",
-    "檢定第二題資料表錯誤排除.md",
-    "04_lisen/SQL 語法回顧.md",
     "aKai-PDF_260115a.pdf",
     "aKai-PDF_260115b.pdf",
     "2026-01-15-1349.pdf",
     "aKai-PDF_260108.pdf",
     "laravel 3：RESTful.pdf",
-    "Laravel 2：Github clone.pdf",
-    "laravel 1：Contoller.pdf",
-    "lavavel 0：Install.pdf",
     "Pasted image 20260114102229.png",
     "source/Pasted image 20260115111035.png",
     "source/Pasted image 20260115105609.png",
-    "source",
-    "aKai-PDF_260114.pdf",
     "Pasted image 20260112093419.png",
     "Pasted image 20260114102231.png",
     "Pasted image 20260112110331.png",

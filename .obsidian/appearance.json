@@ -4,5 +4,6 @@
   "monospaceFontFamily": "Arial",
   "textFontFamily": "Arial",
   "interfaceFontFamily": "Arial",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showViewHeader": true
 }
